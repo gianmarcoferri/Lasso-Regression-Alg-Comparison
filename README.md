@@ -1,5 +1,5 @@
 # Lasso Regression Algorithms Comparison from scratch
-This project aims to address the Lasso regression problem using various algorithms. Three different approaches have been implemented: ISTA (Iterative Soft-Thresholding Algorithm), ADMM (Alternating Direction Method of Multipliers), and a simulated distributed version of ADMM across multiple agents. The project provides a comparison of these algorithms based on computation times, iterations required for convergence, and convergence conditions visualized through graphs.
+This project aims to address the Lasso regression problem using various algorithms on the [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance). Three different approaches have been implemented: ISTA (Iterative Soft-Thresholding Algorithm), ADMM (Alternating Direction Method of Multipliers), and a simulated distributed version of ADMM across multiple agents. The project provides a comparison of these algorithms based on computation times, iterations required for convergence, and convergence conditions visualized through graphs.
 
 # Algorithms Implemented
 The algorithms are implemented within the "LassoReg" class, allowing users to choose between different algorithms for training, set step-size, convergence tolerance, maximum iterations, and penalty terms.
