@@ -34,8 +34,8 @@ The performance comparison is presented in Table 1.
 
 | Algorithm  | R2     | Time (s) | Iterations |
 |------------|--------|----------|------------|
-| ISTA       | 0.7689 | 2.09     | 32417      |
-| ADMM       | 0.7688 | 3.94e-4  | 3          |
-| ADMM-Dist  | 0.7692 | 0.018    | 186        |
+| ISTA       | 0.5588 | 12.876   | 50000      |
+| ADMM       | 0.5839 | 0.0010   | 4          |
+| ADMM-Dist  | 0.5726 | 0.0376   | 170        |
 
 The comparison table displays the R2 scores, computation times, and iterations required to achieve convergence for each algorithm.
