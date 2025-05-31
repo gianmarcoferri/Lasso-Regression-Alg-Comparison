@@ -28,7 +28,7 @@ The algorithms were executed with the following parameters:
 - Step-size = 0.01
 - L1-penalty = 1
 - Tolerance = 1e-4
-- Agents = 9 (Distributed ADMM)
+- Agents = 8 (Distributed ADMM)
 
 The performance comparison is presented in Table 1.
 
